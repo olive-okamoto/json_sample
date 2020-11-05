@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "weathers": [
+    { "id": 1, "name": "晴れ", "image_name": "tenki_sunny" },
+    { "id": 2, "name": "曇り", "image_name": "tenki_cloudy" },
+    { "id": 3, "name": "雨", "image_name": "tenki_rain" }
+  ]
 }
